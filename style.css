@@ -49,8 +49,14 @@ body {
     background: rgba(52,56,81,0.8);
 }
 
-*, *::before, *::after {
-    -webkit-box-sizing: inherit;
-    box-sizing: inherit;
+.row{
+	margin-top: 60px;
+	display: flex;
+	flex-flow: row wrap;
+	
 }
 
+.card-range{
+	display: flex;
+	justify-content: center;
+}
