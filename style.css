@@ -61,7 +61,20 @@ body {
 	margin-top: 40px;
 }
 
+.card{
+	border-style: none;
+	box-shadow: 0 0 5px rgb(0 0 0 / 10%) ;
+}
+
 .card:hover{
 	box-shadow: 0 0 80px rgb(0 0 0 / 10%) ;
 	transition: .2s;
+}
+
+.card-body h5{
+	color: black;
+}
+
+.card-body p{
+	color: black;
 }
