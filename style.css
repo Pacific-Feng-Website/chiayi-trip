@@ -50,13 +50,18 @@ body {
 }
 
 .row{
-	margin-top: 60px;
 	display: flex;
 	flex-flow: row wrap;
-	
+	margin-top: 30px;
 }
 
 .card-range{
 	display: flex;
 	justify-content: center;
+	margin-top: 40px;
+}
+
+.card:hover{
+	box-shadow: 0 0 80px rgb(0 0 0 / 10%) ;
+	transition: .2s;
 }
