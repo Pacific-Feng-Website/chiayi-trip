@@ -58,6 +58,11 @@ body {
 	transition: .2s;
 }
 
+.card:hover img{
+	opacity:0.9;
+	transition: .25s;
+}
+
 .card-body h5{
 	color: black;
 }
