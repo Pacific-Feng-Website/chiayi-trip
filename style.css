@@ -16,17 +16,6 @@
 	}
 }
 
-div.top-pic{
-    min-height: 16.25rem;
-    width: 100%;
-    position: relative;
-    background-color: #dde5ea;
-    background-repeat: no-repeat;
-    background-position: 50%;
-    background-size: cover;
-	background-image: url(https://raw.githubusercontent.com/Pacific-Feng/Picture_Storer/main/Chiayi/Chiayi1.jpg);
-}
-
 body {
     background-color: #fff;
     font-size: 1rem;
